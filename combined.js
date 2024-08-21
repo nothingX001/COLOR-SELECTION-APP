@@ -1,5 +1,5 @@
 
-// Function to handle color changes
+// Function
 function handleColorChange() {
     var colorInput = document.getElementById("colorInput");
     var colorDisplay = document.getElementById("colorDisplay");
@@ -7,7 +7,7 @@ function handleColorChange() {
     colorDisplay.textContent = 'YOUR COLOR: ' + colorInput.value;
 }
 
-// Setting up the HTML for Color Selection
+// HTML
 document.addEventListener('DOMContentLoaded', function() {
     var root = document.getElementById('root');
     root.innerHTML = '<div class="color-selection-container">' +
