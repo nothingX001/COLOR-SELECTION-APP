@@ -23,7 +23,6 @@ body{
     border: 5px solid black;
     border-radius: 25px;
     margin: 15px;
-    transition: 0.25s ease;
   }
   
   .color-display p{
@@ -62,7 +61,6 @@ body{
       border: 5px solid black;
       border-radius: 25px;
       margin: 15px;
-      transition: 0.25s ease;
     }
   
     .color-display p{
