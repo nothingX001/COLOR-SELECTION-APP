@@ -9,6 +9,5 @@ This simple web application allows users to select a color and immediately see t
 - Displays the hexadecimal code of the selected color.
 
 ## Usage
-- Click on the color picker button to open the color selection tool.
-- Choose a color.
-- Exit the picker by clicking anywhere on the screen. The display box updates to show the selected color and its hex code.
+1. Click the button as advised. A list of preset colors will display.
+2. Click "Show Colors..." to open the color wheel. You can then find advanced settings to customize your own color.
